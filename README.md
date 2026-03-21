@@ -1,10 +1,9 @@
 # 💫 About Me:
 Cybersecurity Associate & Linux Tool Developer<br><br>I am a Cybersecurity Associate and developer specializing in Linux system administration and security automation. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive defense and anti-forensic engineering.<br><br>🛡️ **Core Focus:**
+
 * **Endpoint Defense:** Real-time file integrity monitoring and system hardening.
 * **Anti-Forensics:** Cryptographic data sanitization and secure memory management.
-* **Threat Intelligence:** Automated vulnerability analysis and zero-trust architectures.<br><br>
-⚡ Technical Arsenal: Proficient in packet analysis (Wireshark), vulnerability scanning (Nmap), and applied cryptography (RSA-2048/AES).<br><br>
-🔭 Goal: Developing secure, scalable IT environments that are robust by design and hardened against modern threat vectors.
+* **Threat Intelligence:** Automated vulnerability analysis and zero-trust architectures.<br><br>⚡ Technical Arsenal: Proficient in packet analysis (Wireshark), vulnerability scanning (Nmap), and applied cryptography (RSA-2048/AES).<br><br>🔭 Goal: Developing secure, scalable IT environments that are robust by design and hardened against modern threat vectors.
 
 
 ## 🌐 Socials:
