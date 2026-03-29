@@ -1,8 +1,7 @@
-# 💫 About Me:
 
 # 👋 Hi, I'm Ditikrushna!
 
-### 🚀 Cybersecurity Associate & Linux Tool Developer
+🚀 Cybersecurity Associate & Linux Tool Developer
 
 I am a Cybersecurity Associate and developer specializing in Linux system administration and security automation. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive defense and anti-forensic engineering.
 
