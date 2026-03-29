@@ -46,4 +46,7 @@ Always open to discussing AI safety, system architecture, or complex engineering
   <a href="https://instagram.com/swa2am">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+<a href="mailto:ditikrushnaroutray@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
