@@ -1,20 +1,19 @@
 👋 Hi, I'm Ditikrushna!
 
-### 🚀 Cybersecurity Associate & Linux Tool Developer
+🚀 **Cybersecurity Associate & Linux Tool Developer**
 
-I am a Cybersecurity Associate and developer specializing in Linux system administration and security automation. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive defense and anti-forensic engineering.
+I am a cybersecurity professional and developer specializing in Linux system administration, security automation, and threat defense. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive infrastructure defense and secure application development.
 
-**🛡️ Core Focus:**
-* **AI Security Environments:** An OpenEnv-compliant SOC simulator to train autonomous defensive agents.
-* **Endpoint Defense:** Real-time file integrity monitoring and system hardening.
-* **Anti-Forensics:** Cryptographic data sanitization and secure memory management.
-* **Threat Intelligence:** Automated vulnerability analysis and zero-trust architectures.
+🛡️ **Core Focus:**
 
-**⚡ Technical Arsenal:** Proficient in packet analysis (Wireshark), vulnerability scanning (Nmap), and applied cryptography (RSA-2048/AES).
+* **Endpoint Defense:** Engineering real-time file integrity monitors, custom daemons, and automated system hardening scripts.
+* **Applied Cryptography:** Developing secure communication backends with cryptographic data sanitization and secure memory management.
+* **Network Forensics:** Conducting deep-dive packet analysis, extracting malware artifacts, and mapping threat intelligence.
+* **Security Automation:** Building Python and Bash toolsets for automated vulnerability analysis and access control auditing.
 
-**🔭 Goal:** Developing secure, scalable IT environments that are robust by design and hardened against modern threat vectors.
+⚡ **Technical Arsenal:** Proficient in network traffic analysis (Wireshark), threat simulation (Nmap/Hydra), Linux system administration, and applied cryptography (RSA-2048/AES).
 
----
+🔭 **Goal:** Developing secure, scalable IT environments that are robust by design and hardened against modern threat vectors.
 
 ## 🛠️ Tech Stack & Arsenal
 
