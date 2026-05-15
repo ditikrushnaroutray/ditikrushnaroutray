@@ -1,8 +1,8 @@
 👋 Hi, I'm Ditikrushna!
 
-🚀 **Cybersecurity Associate & Linux Tool Developer**
+🚀 **Cybersecurity Beginner & Linux Tool Developer**
 
-I am a cybersecurity professional and developer specializing in Linux system administration, security automation, and threat defense. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive infrastructure defense and secure application development.
+I am a cybersecurity beginner and developer specializing in Linux system administration, security automation, and threat defense. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive infrastructure defense and secure application development.
 
 🛡️ **Core Focus:**
 
