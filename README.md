@@ -1,8 +1,10 @@
-👋 Hi, I'm Ditikrushna!
+<p align="left">
+  <a href="https://github.com/ditikrushnaroutray">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1793D1&width=800&lines=👋+Hi,+I'm+Ditikrushna!;🚀+Cybersecurity+%26+Linux+Developer;⚙️+Building+Resilient+Infrastructure;🛡️+Engineering+Endpoint+Defense" alt="Typing SVG" />
+  </a>
+</p>
 
-🚀 **Cybersecurity Beginner & Linux Tool Developer**
-
-I am a cybersecurity beginner and developer specializing in Linux system administration, security automation, and threat defense. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive infrastructure defense and secure application development.
+I am a developer specializing in Linux system administration, security automation, and threat defense. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive infrastructure defense and secure application development.
 
 🛡️ **Core Focus:**
 
@@ -18,18 +20,30 @@ I am a cybersecurity beginner and developer specializing in Linux system adminis
 ## 🛠️ Tech Stack & Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <br/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-8AC926?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Cryptography (RSA/AES)-000000?style=for-the-badge&logo=mdbook&logoColor=white" alt="Applied Cryptography" />
-  <br/>
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <br/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-8AC926?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Cryptography (RSA/AES)-000000?style=for-the-badge&logo=mdbook&logoColor=white" alt="Applied Cryptography" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+If my open-source tools, proxies, or automation scripts have helped secure your systems or saved you debugging time, consider supporting the late-night coding sessions!
+
+<p align="left">
+  <a href="https://paypal.me/CyberSwayam">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
 </p>
 
 ---
@@ -39,13 +53,13 @@ I am a cybersecurity beginner and developer specializing in Linux system adminis
 Always open to discussing AI safety, system architecture, or complex engineering challenges.
 
 <p align="left">
-  <a href="https://github.com/ditikrushnaroutray">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/swa2am">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-<a href="mailto:ditikrushnaroutray@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://github.com/ditikrushnaroutray">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/cyberswayam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ditikrushnaroutray@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
