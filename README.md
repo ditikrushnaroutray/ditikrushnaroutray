@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/ditikrushnaroutray">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1793D1&width=800&lines=👋+Hi,+I'm+Ditikrushna!;🚀+Cybersecurity+%26+Linux+Developer;⚙️+Building+Resilient+Infrastructure;🛡️+Engineering+Endpoint+Defense" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=1793D1&width=800&lines=%3E+Hi,+I%27m+Ditikrushna!;%3E+Cybersecurity+%26+Linux+Developer;%3E+Building+Resilient+Infrastructure;%3E+Engineering+Endpoint+Defense" alt="Terminal Typing Animation" />
   </a>
 </p>
 
