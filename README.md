@@ -1,8 +1,6 @@
-<p align="left">
-  <a href="https://github.com/ditikrushnaroutray">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=1793D1&width=800&lines=%3E+Hi,+I%27m+Ditikrushna!;%3E+Cybersecurity+%26+Linux+Developer;%3E+Building+Resilient+Infrastructure;%3E+Engineering+Endpoint+Defense" alt="Terminal Typing Animation" />
-  </a>
-</p>
+👋 Hi, I'm Ditikrushna!
+
+🚀 **Cybersecurity & Linux Tool Developer**
 
 I am a developer specializing in Linux system administration, security automation, and threat defense. I focus on building resilient, hardware-anchored tools that bridge the gap between proactive infrastructure defense and secure application development.
 
