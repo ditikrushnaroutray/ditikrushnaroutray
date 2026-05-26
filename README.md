@@ -46,6 +46,19 @@ If my open-source tools, proxies, or automation scripts have helped secure your 
 
 ---
 
+## 📊 Analytics & Performance
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ditikrushnaroutray&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Ditikrushna's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ditikrushnaroutray&theme=tokyonight&hide_border=true" alt="Ditikrushna's Streak Stats" height="180px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditikrushnaroutray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140px" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 Always open to discussing AI safety, system architecture, or complex engineering challenges.
