@@ -4,9 +4,9 @@
 
 **Cybersecurity Practitioner · Blue Team · GRC · Linux Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ditikrushnaroutray)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=netlify&logoColor=white)](https://ditikrushnaroutray.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ditikrushnaroutray@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ditikrushnaroutray)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=white)](https://ditikrushnaroutray.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ditikrushnaroutray@gmail.com)
 
 </div>
 
@@ -26,15 +26,22 @@ I build security tools, forensic labs, and risk-aligned infrastructure on Linux.
 ## 🛠️ Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-8AC926?style=flat-square" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E11D0A?style=flat-square" />
-  <img src="https://img.shields.io/badge/NIST_CSF-00539B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-8AC926?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cryptography_(RSA/AES)-000000?style=for-the-badge&logo=mdbook&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E11D0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST_CSF-00539B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO_27001-003580?style=for-the-badge" />
 </p>
 
 ---
@@ -59,9 +66,9 @@ I build security tools, forensic labs, and risk-aligned infrastructure on Linux.
 Open to discussing threat detection, DFIR methodology, GRC frameworks, or security automation.
 
 <p>
-  <a href="https://linkedin.com/in/ditikrushnaroutray"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/cyberswayam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:ditikrushnaroutray@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ditikrushnaroutray"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/cyberswayam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ditikrushnaroutray@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -70,7 +77,7 @@ Open to discussing threat detection, DFIR methodology, GRC frameworks, or securi
 
 If my tools or labs have been useful, consider supporting the work.
 
-<a href="https://paypal.me/CyberSwayam"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" /></a>
+<a href="https://paypal.me/CyberSwayam"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 
 ---
 
