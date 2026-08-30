@@ -2,7 +2,7 @@
 
 # Ditikrushna Routray
 
-**Cybersecurity Practitioner · Blue Team · GRC · Linux Systems**
+**Cybersecurity Engineer · Blue Team · GRC · Linux Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ditikrushnaroutray)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=white)](https://ditikrushnaroutray.netlify.app)
